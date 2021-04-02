@@ -21,6 +21,7 @@
 		F1FF41D72616971A00C4A986 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F1FF41D92616971A00C4A986 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F1FF41DA2616971A00C4A986 /* Link_It.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Link_It.entitlements; sourceTree = "<group>"; };
+		F1FF41E226169A0F00C4A986 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +38,7 @@
 		F1FF41C42616971900C4A986 = {
 			isa = PBXGroup;
 			children = (
+				F1FF41E226169A0F00C4A986 /* README.md */,
 				F1FF41CF2616971900C4A986 /* Link It */,
 				F1FF41CE2616971900C4A986 /* Products */,
 			);
